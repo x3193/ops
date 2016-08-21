@@ -276,7 +276,7 @@
       "name": "APPLICATION_DOMAIN",
       "displayName": "Application Hostname",
       "description": "The exposed hostname that will route to the CakePHP service, if left blank a value will be defaulted.",
-      "value": ""
+      "value": "ops.x3193.usa.cc"
     },
     {
       "name": "GITHUB_WEBHOOK_SECRET",
